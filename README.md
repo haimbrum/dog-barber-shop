@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 ## SQL
-Create a DB and run dog_barber_shop.sql file
+Create a DB named DogBarberShop and run dog_barber_shop.sql file
 
 ## Backend
 * Set connection string in appsettings.json
